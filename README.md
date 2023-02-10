@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelahudak
 - 👀 I’m interested in ... 3D printing!
-- 🌱 I’m currently learning ... Real Timee and Embedded Systems & Technical Writing
+- 🌱 I’m currently learning ... Real Time and Embedded Systems & Technical Writing
 - 💞️ I’m looking to collaborate on ... open source software!
 - 📫 How to reach me ... linkedin @angelahudak
 
